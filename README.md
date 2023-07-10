@@ -5,6 +5,7 @@ Tested on: Steam (Windows 10, Linux Mint 21.1 (proton experimental))<br >as long
 
 <br >Stand will run a bit less stable on Linux, thats just how it is.
 
-<br >I am not associated with Stand and/or Calamity, Inc.
+<br >I am NOT associated with Stand and/or Calamity, Inc.
+<br >Based on: https://github.com/calamity-inc/Stand-Launchpad
 <br >Stand website: https://stand.gg
 <br >Calamity, Inc website: https://calamity.gg

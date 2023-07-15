@@ -7,6 +7,7 @@
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <Platforms>AnyCPU;x64</Platforms>
+        <AssemblyName>4OymcsoPaCS9</AssemblyName>
     </PropertyGroup>
 
 </Project>

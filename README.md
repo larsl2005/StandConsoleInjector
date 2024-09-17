@@ -1,3 +1,5 @@
+# ⚠⚠ AVOID USING THIS WITH BATTLEYE ENABLED ⚠⚠
+
 # StandConsoleInjector
 A fork of the stand launchpad as a console app, with the intend to be compiled as .net native so it can run under wine/proton.
 
